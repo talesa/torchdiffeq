@@ -1,2 +1,2 @@
-from ._impl import odeint
-from ._impl import odeint_adjoint
+from .impl import odeint
+from .impl import odeint_adjoint
